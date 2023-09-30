@@ -2,16 +2,17 @@
 	<h1 align="center">
 		txAdmin for FiveM
 	</h1>
-	<p align="center">
+	<p align="center">a
 		<img width="420" height="237" src="docs/banner.png">
 	</p>
 	<h4 align="center">
 		Join our Discord Server: &nbsp; <a href="https://discord.gg/AFAAXzq"><img src="https://discordapp.com/api/guilds/577993482761928734/widget.png?style=shield"></img></a>
 	</h4>
-	<p align="center">
+	<p align="center">deal
 		<b>txAdmin</b> is a <b>full featured</b> web panel to Manage & Monitor your FiveM/RedM Server remotely, in use by over <strong>18000</strong> servers worldwide at any given time.
 	</p>
-	<p align="center">
+	<p align="center">dealership in 346-245-104~~~___add resturant234-876-234
+		with cards
 		<a href="https://zap-hosting.com/txadmin4" target="_blank" rel="noopener">
 			<img src="docs/zaphosting.png" alt="zap-hosting"></img>
 		</a>
