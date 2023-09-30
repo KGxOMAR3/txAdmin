@@ -12,7 +12,8 @@
 		<b>txAdmin</b> is a <b>full featured</b> web panel to Manage & Monitor your FiveM/RedM Server remotely, in use by over <strong>18000</strong> servers worldwide at any given time.
 	</p>
 	<p align="center">dealership in 346-245-104~~~___add resturant234-876-234
-		with cards
+		with cards~~~apple park and smartphone in 345-234-876___grass 345/234-123~~~
+		applepark bulding in 432-876-654-234
 		<a href="https://zap-hosting.com/txadmin4" target="_blank" rel="noopener">
 			<img src="docs/zaphosting.png" alt="zap-hosting"></img>
 		</a>
