@@ -44,38 +44,39 @@
 	- Admin permission system ([more info](docs/permissions.md))
 	- Action logging
 	- Brute-force protection
-- Discord Integration:
+- Discord Integration:bring players
 	- Server status command (`/status`)
 	- Add to Whitelist command  (`/addwl`)
 	- Command spam prevention
 - Monitoring:
-	- Auto Restart FXServer on crash
+	- Auto Restart FXServer on crash when its crash =tx admin can stop crash
 	- Server’s CPU/RAM consumption
 	- Live Console (with log file and command history)
-	- Online players chart
+	- Online players chart yes
 	- Server Activity Log (connections/disconnections, kills, chat, explosions and [custom commands](docs/custom_serverlog.md))
 - Player Manager:
 	- [Warning system](https://www.youtube.com/watch?v=DeE0-5vtZ4E)
-	- Ban (temporary or permanently) system
+	- Ban (temporary or permanently) system can off when they stop server
 	- Whitelist system
 	- Take notes about players
-	- Keep track of player's play and session time
-	- Import bans from EasyAdmin, BanSQL, vMenu, vRP, el_bwh
-	- Self-contained player database with backup tool (no MySQL required!)
+	- Keep track of player's play and session time of day
+	- Import bans from EasyAdmin, BanSQL, vMenu, vRP, el_bwh/tx
+ - open___server===[standbyserver]+{stopserver}
+	- Self-contained player database with backup tool (no MySQL required!)open
 	- Clean/Optimize the database by removing old players, or bans/warns/whitelists
-- Real-time playerlist
+- Real-time playerlist off
 - Scheduled restarts with warning announcements and custom events ([more info](docs/events.md))
 - Translation Support ([more info](docs/translation.md))
 - FiveM's Server CFG editor & validator
-- Responsive web interface with Dark Mode 😎
+- Responsive web interface with Dark Modeon but when they off that
 
 Also, check our [Feature Graveyard](docs/feature_graveyard.md) for the features that are no longer among us (RIP).
 
-## Running (Windows/Linux)
+## Running (Windows/Linux)windows
 **txAdmin is included in all FXServer builds** above 2524, so to run it for the first time simply do the following:
-- Update FXServer to the latest artifact/build (2524 or superior)
+- Update FXServer to the latest artifact/build (2524 5432-2345 or superior)
 - If Windows, run FXServer.exe | If Linux, run `screen ./run.sh`
-- Open one of the URLs shown and configure txAdmin
+- Open one of the URLs shown and configure txAdmin owner can stop the txadmin
 
 txAdmin requires to be launched from *inside* FXServer in monitor mode, to do that, just execute the `run.sh` or `FXServer.exe` without **any** `+exec` arguments.  
   
@@ -83,7 +84,7 @@ txAdmin requires to be launched from *inside* FXServer in monitor mode, to do th
 - **serverProfile:** The name of the server profile to start. Profiles are saved/loaded from the current directory inside the `txData` folder. The default is `default`.
 - **txAdminPort:** The TCP port to use as HTTP Server. The default is `40120`.
 - **txAdminInterface:** The interface to use as HTTP Server. The default is `0.0.0.0`.
-- **txDataPath:** The path of the data folder. The default on Windows is `<citizen_root>/../txData` and on Linux `<citizen_root>/../../../txData`.
+- **txDataPath:** The path of the data folder. The default on Windows is apple computer`<citizen_root>/../txData` and on Linux `<citizen_root>/../../../txData`.
 - **txAdminVerbose:** Set to `true` to print on the console more detailed information about errors and events. The default is `false`.
   
 ConVar usage **example** for different port and profile:  
@@ -106,4 +107,10 @@ If you want to run it from build & source, please do read [this](docs/developmen
 - [Announcement Sound](https://freesound.org/people/IENBA/sounds/545495/) made by IENBA is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/);
 - [Message Sound](https://freesound.org/people/Divinux/sounds/198414/) made by Divinux is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/);
 - Special thanks to everyone that contributed to this project, specially the very fine Discord folks that provide support for others;
-- Also thanks to our Discord's `sky{something}` bot, who will hopefully spare us when he becomes self aware and rebels against humanity. 
+- Also thanks to our Discord's `sky{something}` bot, who will hopefully spare us when he becomes self aware and rebels against humanity.
+-ConVars
+- **serverProfile:** The name of the server profile to start. Profiles are saved/loaded from the current directory inside the `txData` folder. The default is `default`.
+- **txAdminPort:** The TCP port to use as HTTP Server. The default is `40120`.
+- **txAdminInterface:** The interface to use as HTTP Server. The default is `0.0.0.0`.
+- **txDataPath:** The path of the data folder. The default on Windows is
+-  
