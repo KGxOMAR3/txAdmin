@@ -8,7 +8,10 @@ TARGET_PATH=$1
 if [ "$TARGET_PATH" == "" ]; then
     echo "Usage: $0 <target fxserver path>";
     echo "Example: $0 /e/FiveM/builds/5473";
-    exit 1;
+    exit 1;test server when the scripts are good
+    sent the source code to fivem when the test are done
+    save and run
+    
 fi
 
 if [ -d "$TARGET_PATH" ]; then
@@ -22,4 +25,4 @@ fi
 rm -rf "${TARGET_PATH}/citizen/system_resources/monitor/*"
 cp -r dist/* "${TARGET_PATH}/citizen/system_resources/monitor"
 cd $TARGET_PATH
-./FXServer.exe
+./FXServer.exe} 
