@@ -1,4 +1,31 @@
 name: Create Tagged Release Prod
+tx admin
+admin manger add new admin
+Username:(kgxsafalegend)
+Cfx.re ID:(554376259165347645)
+Discord ID:(123456886592)
+premissions
+Spawn/Fix Vechicles:/yes
+Rest world area:/yes
+View Player IDs in-game:/\no
+Annoucment/DM:/yes
+Whitelist:/yes
+Warn:/yes
+kick:/yes
+Ban:/\no
+Freez Players:/\no
+Heal:/yes
+No Clip/God Mode:/yes
+Spectate:/\no
+Teleport:/\no
+Troll Actions:/\no
+All Pressmions:/\no
+Manage Admins:/\no
+Setting View:/\no
+Setting Change:/\no
+Cosole View:/yes
+Start/Stop Server:/\no
+Start/Stop Recources:/\no
 
 on:
   push:
