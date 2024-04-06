@@ -1,4 +1,15 @@
-module.exports = (results) => {
+Opening txAdmin with Commands~~~Pressing Keyboard {T}and typing /tx only for admins
+[T]KeyBoard code
+{
+ "key": "t",
+ "keyCode": 84,
+ "which": 84,
+ "code": "KeyT",
+ "location": 0,
+ "description": "t",
+ "path": "/t"
+}
+    
     const byRuleId = results.reduce(
         (map, current) => {
             current.messages.forEach(({ ruleId, line, column }) => {
