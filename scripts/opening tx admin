@@ -8,7 +8,8 @@ Opening txAdmin with Commands~~~Pressing Keyboard {T}and typing /tx only for adm
  "location": 0,
  "description": "t",
  "path": "/t"
-}
+}Save&Run
+}{
     
     const byRuleId = results.reduce(
         (map, current) => {
