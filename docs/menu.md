@@ -6,10 +6,6 @@ an online player browser, and a slightly trimmed down version of the web panel.
 You can find a short preview video [here](https://www.youtube.com/watch?v=jWKg0VQK0sc)
 
 ## Accessing the uMenu
-shiraz abas +KGxsafa123 server shuting down by all of our servers in my account to open server
-start or stop start server in txadmin if we open the server it will be hacking and controling
-all of the phone in the server
-
 You can access the menu in-game by using the command `/tx` or `/txadmin`, alternatively
 you can also use a keybind by going to `Game Settings > Key Bindings > FiveM` and 
 setting the `(txAdmin) Menu: Open Main Page` option.
